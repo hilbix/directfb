@@ -1,0 +1,6 @@
+[submodule "core/DirectFB"]
+	path = core/DirectFB
+	url = git://git.directfb.org/git/directfb/core/DirectFB.git
+[submodule "core/flux"]
+	path = core/flux
+	url = git://git.directfb.org/git/directfb/core/flux
